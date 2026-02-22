@@ -1,0 +1,12 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "description": "Please try to implement the project on your own before proceeding to the lectures &amp; code.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
